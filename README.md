@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/caden-gobat/" target="_blank"><img height="30" src="https://sguru.org/wp-content/uploads/2018/02/linkedin-png-linkedin-icon-1600.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://cgobat.myportfolio.com/" target="_blank"><img height="30" src="https://maxcdn.icons8.com/Share/icon/p1em/Photo_Video/camera1600.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.cgobat.github.io/" target="_blank"><img height="30" src="https://cdn.onlinewebfonts.com/svg/img_481250.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cgobat.github.io/" target="_blank"><img height="30" src="https://cdn.onlinewebfonts.com/svg/img_481250.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/gobatmann/" target="_blank"><img height="30" src="https://maxcdn.icons8.com/Share/icon/p1em/Logos/instagram_new1600.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -11,31 +11,33 @@
 <details>
 <summary>My GitHub Stats 📊</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cgobat&show_icons=true&theme=dark&line_height=27" alt="cgobat">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cgobat&theme=dark">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cgobat&show_icons=true&theme=dark" alt="cgobat">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgobat&theme=dark">
 </p>
 </details>
 <br>
 
-I'm [Caden](https://www.cgobat.github.io/), an undergraduate astrophysics student at the George Washington University. Right now most of the coding I do is data analysis (primarily in Python), using telescope data to investigate astrophysical phenomena. I'm into data acquisition, handling, and visualization, as well as astronomical observing itself.
+My name is Caden—I'm an undergraduate at the George Washington University studying astronomy & astrophysics. Right now most of the coding I do is data analysis (primarily in Python), using telescope data to investigate astrophysical phenomena. In the past though, I've done research in a number of labs and fields and even worked at a telescope store. More generally, I'm into data acquisition, handling, and visualization, as well as astronomical observing itself. You can check out my full resume in LaTeX [here](https://github.com/cgobat/resume), if you're into that sort of thing.
 
 <br>
 
-#### Some of my tools and languages:
+#### Tools and languages I use:
 
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/jupyter.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/pandas.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/numpy.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/github.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/wolfram.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/adobe.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/jupyter.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/pandas.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/numpy.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/github.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/wolfram.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/visualstudiocode.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/adobe.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/dassaultsystemes.svg"></code>
 <br><br>
 
 
-## What I'm working on now:
+## My current projects:
 <br>
 
 <a href="https://github.com/cgobat/Be-star-binaries/" target="_blank">
@@ -45,7 +47,7 @@ I'm [Caden](https://www.cgobat.github.io/), an undergraduate astrophysics studen
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=dark-GRBs&theme=dark" />
 </a><br><br>
 
-## Past stuff I'm proud of:
+## Past work I'm proud of:
 <br>
 
 <a href="https://github.com/cgobat/pulsar-nulling/" target="_blank">
@@ -63,6 +65,6 @@ I'm [Caden](https://www.cgobat.github.io/), an undergraduate astrophysics studen
 
 <div align="center">
 
-### Please reach out!
+### Feel free to reach out!
 
 </div>
