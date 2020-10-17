@@ -47,7 +47,7 @@ My name is Caden—I'm an undergraduate at the George Washington University stud
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=dark-GRBs&theme=dark" />
 </a><br><br>
 
-## Past work I'm proud of:
+## Past work I've done:
 <br>
 
 <a href="https://github.com/cgobat/pulsar-nulling/" target="_blank">
