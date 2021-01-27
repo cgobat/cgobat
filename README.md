@@ -17,7 +17,7 @@
 </details>
 <br>
 
-My name is Caden—I'm an undergraduate at the George Washington University studying astronomy & astrophysics. Right now most of the coding I do is data analysis (primarily in Python), using obervational data to investigate astrophysical phenomena. In the past though, I've done research in a number of labs and fields and even worked at a telescope store. More generally, I'm into data acquisition, handling, and visualization, as well as astronomical observing itself.
+My name is Caden—I'm an undergraduate at the George Washington University studying astronomy & astrophysics. Right now most of the coding I do is data analysis (primarily in Python), using obervational data to investigate astrophysical phenomena. In the past though, I've done research in a number of labs and fields and even worked at a telescope store. More generally, I'm into image and data acquisition, handling, and visualization, as well as astronomical observing itself.
 
 <br>
 
