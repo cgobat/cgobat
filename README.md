@@ -37,7 +37,7 @@ My name is Caden—I'm an undergraduate at the George Washington University stud
 <br><br>
 
 
-## My current projects:
+## Current main projects:
 <br>
 
 <a href="https://github.com/cgobat/dark-GRBs" target="_blank">
@@ -48,7 +48,7 @@ My name is Caden—I'm an undergraduate at the George Washington University stud
 </a>
 <br><br>
 
-## Past work I've done:
+## Other work I've done:
 <br>
 
 <a href="https://github.com/cgobat/pulsar-nulling/" target="_blank">
@@ -57,8 +57,8 @@ My name is Caden—I'm an undergraduate at the George Washington University stud
 <a href="https://github.com/cgobat/stellar-spectra/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=stellar-spectra&theme=dark" />
 </a>
-<a href="https://github.com/cgobat/gw-course-map/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=gw-course-map&theme=dark" />
+<a href="https://github.com/cgobat/spectrograph/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=spectrograph&theme=dark" />
 </a>
 <a href="https://github.com/cgobat/hr-diagram/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=hr-diagram&theme=dark" />
