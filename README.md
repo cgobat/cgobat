@@ -17,7 +17,7 @@
 </details>
 <br>
 
-My name is Caden—I'm an undergraduate at the George Washington University studying astronomy & astrophysics. Much of my current coding work is data analysis (primarily in Python), using obervational data to investigate physical phenomena. My research interests lie in creating software analysis tools for time-dependent processes, including predictive modeling, as well as instrumentation design. I've done research in a number of labs and academic subjects and even worked at a telescope store. [Check out my LinkedIn](https://www.linkedin.com/in/cadengobat/) for more!
+My name is Caden—I'm an undergraduate at the George Washington University studying astronomy & astrophysics. Much of my current coding work is data analysis (primarily in Python), using obervational data to investigate physical phenomena. My research interests lie in creating software analysis tools for time-dependent processes, as well as instrumentation design. I've done research in a number of labs and academic subjects and even worked at a telescope store. [Check out my LinkedIn](https://www.linkedin.com/in/cadengobat/) for more!
 
 <br>
 
