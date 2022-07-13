@@ -1,10 +1,9 @@
-<h1><img src="https://image.flaticon.com/icons/png/512/201/201587.png" width="25"/> Welcome! <img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="cgobat"/></h1>
+<h1><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Lucy_spacecraft_%28proposal_concept%29.png" width="25"/> Welcome! <img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="cgobat"/></h1>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/caden-gobat/" target="_blank"><img height="30" src="https://sguru.org/wp-content/uploads/2018/02/linkedin-png-linkedin-icon-1600.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cgobat.myportfolio.com/" target="_blank"><img height="30" src="https://maxcdn.icons8.com/Share/icon/p1em/Photo_Video/camera1600.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cgobat.github.io/" target="_blank"><img height="30" src="https://cdn.onlinewebfonts.com/svg/img_481250.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/gobatmann/" target="_blank"><img height="30" src="https://maxcdn.icons8.com/Share/icon/p1em/Logos/instagram_new1600.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/caden-gobat/" target="_blank"><img height="30" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cgobat.myportfolio.com/" target="_blank"><img height="30" src="http://iconbug.com/data/b7/256/43f075cf23f97af278ed3e874b041405.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cgobat.github.io/" target="_blank"><img height="30" src="https://www.logolynx.com/images/logolynx/8d/8d22fff92e7d5249d75a8f931a1618c6.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -17,7 +16,7 @@
 </details>
 <br>
 
-My name is Caden—I'm an undergraduate at the George Washington University studying astronomy & astrophysics. Much of my current coding work is data analysis (primarily in Python), using obervational data to investigate physical phenomena. My research interests lie in creating software analysis tools for time-dependent processes, as well as instrumentation design. I've done research in a number of labs and academic subjects and even worked at a telescope store. [Check out my LinkedIn](https://www.linkedin.com/in/cadengobat/) for more!
+My name is Caden—I'm an Analyst in the Space Science & Engineering Division at [Southwest Research Institute]() and a graduate of the astrophysics program at the George Washington University. My current work involves developing operations pipelines for space missions like [Lucy](http://lucy.swri.edu/) and [PUNCH](https://punch.space.swri.edu/). My past work, represented by much of the code hosted on this profile, consists mostly of data analysis (primarily in Python), using obervational data to investigate physical phenomena. Beyond my work at SwRI, I am also interested in the development of software analysis tools for time-dependent processes, as well as instrumentation design. I've done research in a number of labs and academic subjects and even worked at a telescope store. [Check out my LinkedIn](https://www.linkedin.com/in/cadengobat/) for more!
 
 <br>
 
@@ -37,32 +36,22 @@ My name is Caden—I'm an undergraduate at the George Washington University stud
 <br><br>
 
 
-## Current main projects:
+## Some of my work:
 <br>
 
 <a href="https://github.com/cgobat/dark-GRBs" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=dark-GRBs&theme=dark" />
 </a>
+<a href="https://github.com/cgobat/asymmetric_uncertainty/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=asymmetric_uncertainty&theme=dark" />
+</a>
 <a href="https://github.com/cgobat/Be-star-binaries/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=Be-star-binaries&theme=dark" />
 </a>
+<a href="https://github.com/cgobat/astro-instruments/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=astro-instruments&theme=dark" />
+</a>
 <br><br>
-
-## Other work I've done:
-<br>
-
-<a href="https://github.com/cgobat/pulsar-nulling/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=pulsar-nulling&theme=dark" />
-</a>
-<a href="https://github.com/cgobat/stellar-spectra/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=stellar-spectra&theme=dark" />
-</a>
-<a href="https://github.com/cgobat/spectrograph/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=spectrograph&theme=dark" />
-</a>
-<a href="https://github.com/cgobat/hr-diagram/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=hr-diagram&theme=dark" />
-</a>
 
 <div align="center">
 
