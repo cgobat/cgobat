@@ -6,7 +6,6 @@
 <a href="https://cgobat.github.io/" target="_blank"><img height="30" src="https://www.logolynx.com/images/logolynx/8d/8d22fff92e7d5249d75a8f931a1618c6.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 <details>
 <summary>GitHub Stats 📊</summary>
 
@@ -16,9 +15,16 @@
 </details>
 <br>
 
-My name is Caden—I'm an Analyst in the Space Science & Engineering Division at [Southwest Research Institute]() and a graduate of the astrophysics program at the George Washington University. My current work involves developing operations pipelines for space missions like [Lucy](http://lucy.swri.edu/) and [PUNCH](https://punch.space.swri.edu/). My past work, represented by much of the code hosted on this profile, consists mostly of data analysis (primarily in Python), using obervational data to investigate physical phenomena. Beyond my work at SwRI, I am also interested in the development of software analysis tools for time-dependent processes, as well as instrumentation design. I've done research in a number of labs and academic subjects and even worked at a telescope store. [Check out my LinkedIn](https://www.linkedin.com/in/cadengobat/) for more!
+My name is Caden—I'm an Analyst in the Space Science & Engineering Division at [Southwest Research Institute](https://www.swri.org/technical-divisions/space-science-engineering) and a graduate of the astrophysics program at the George Washington University. My current work involves developing operations pipelines for space missions like [Lucy](https://lucy.swri.edu/) and [PUNCH](https://punch.space.swri.edu/). My past work, represented by much of the code hosted on this profile, consists mostly of data analysis (primarily in Python), using obervational data to investigate physical phenomena. Beyond my work at SwRI, I am also interested in the development of software analysis tools for time-dependent processes, as well as instrumentation design. I've done research in a number of labs and academic disciplines and even worked at a telescope store. [Check out my LinkedIn](https://www.linkedin.com/in/cadengobat/) for more!
 
 <br>
+
+<p align="left">
+<a href="https://physics.columbian.gwu.edu/" target="_blank"><img height="40" src="https://creativeservices.gwu.edu/sites/g/files/zaxdzs2746/f/downloads/gw_monogram_2c.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nasa.gov/lucy/" target="_blank"><img height="40" src="http://lucy.swri.edu/img/Lucy_insignia.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://blogs.nasa.gov/punch/" target="_blank"><img height="45" src="https://punch.space.swri.edu/images/punch-logo_240w.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 #### Tools and languages I use:
 
