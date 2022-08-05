@@ -1,4 +1,4 @@
-<h1><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Lucy_spacecraft_%28proposal_concept%29.png" width="25"/> Welcome! <img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="cgobat"/></h1>
+<h1><img src="https://4.bp.blogspot.com/-J_xJKJxlfLU/WblHnoKTFzI/AAAAAAAAR5A/ZLeP8nH95tsd4reJuThn8pan12wLXJqrgCLcBGAs/s1600/james_webb_transparent.png" width="32"/> Welcome! <img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="cgobat"/></h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/caden-gobat/" target="_blank"><img height="30" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
