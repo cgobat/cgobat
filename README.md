@@ -51,8 +51,8 @@ My name is Caden—I'm an Analyst in the Space Science & Engineering Division at
 <a href="https://github.com/cgobat/asymmetric_uncertainty/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=asymmetric_uncertainty&theme=dark" />
 </a>
-<a href="https://github.com/cgobat/Be-star-binaries/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=Be-star-binaries&theme=dark" />
+<a href="https://github.com/cgobat/XDBS/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=XDBS&theme=dark" />
 </a>
 <a href="https://github.com/cgobat/astro-instruments/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=astro-instruments&theme=dark" />
