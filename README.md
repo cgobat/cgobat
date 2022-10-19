@@ -1,4 +1,4 @@
-# <img src="img/banner.png"/>
+# <img src="img/banner.gif"/>
 
 <p id="buttons" style="height: fit-content; padding-bottom:5%;vertical-align: middle;">
 <a href="https://www.linkedin.com/in/caden-gobat/" target="_blank"><img height="30" alt="LinkedIn" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>&emsp;
