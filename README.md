@@ -1,10 +1,9 @@
-<h1 id="welcome"><img src="https://4.bp.blogspot.com/-J_xJKJxlfLU/WblHnoKTFzI/AAAAAAAAR5A/ZLeP8nH95tsd4reJuThn8pan12wLXJqrgCLcBGAs/s1600/james_webb_transparent.png" width="32"/> Welcome! <img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="cgobat"/></h1>
+# <img src="img/banner.gif"/>
 
-<p id="buttons" align="left">
+<p id="buttons" style="height: fit-content; padding-bottom:5%;vertical-align: middle;">
 <a href="https://www.linkedin.com/in/caden-gobat/" target="_blank"><img height="30" alt="LinkedIn" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>&emsp;
 <a href="https://cgobat.github.io/" target="_blank"><img height="33" alt="Homepage" src="https://www.logolynx.com/images/logolynx/8d/8d22fff92e7d5249d75a8f931a1618c6.png"></a>&emsp;
-<a href="https://cgobat.myportfolio.com/" target="_blank"><img height="33" alt="Photography" src="http://iconbug.com/data/b7/256/43f075cf23f97af278ed3e874b041405.png"></a>&emsp;
-</p>
+<a href="https://cgobat.myportfolio.com/" target="_blank"><img height="33" alt="Photography" src="http://iconbug.com/data/b7/256/43f075cf23f97af278ed3e874b041405.png"></a>&emsp;<img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="Profile views"/></p>
 
 I am...
 - an Analyst in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).[^1]
@@ -13,22 +12,31 @@ I am...
 - a scientific programmer, data analyst, and observational astronomer.
 - a Python and Git(Hub) evangelist.
 
-Much of the code hosted on this profile represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current projects at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design, and the development of software analysis tools for time-dependent processes. I've previously done research in a number of labs and academic disciplines, and even worked at a telescope store. The blue buttons above (right under the main ["Welcome!"](#welcome) header) lead to more about me.
+Much of the code hosted on this profile represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current projects at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design, and the development of software analysis tools for time-dependent processes. I've previously done research in a number of labs and academic disciplines, and even worked at a telescope store. The [blue buttons](#buttons) above (right under the banner) lead to more about me.
 
-<br>
+<br/>
 
-<p align="left">
-Affiliations:<br/>
+#### Affiliations:
 <a href="https://www.boulder.swri.edu/doso/index.html" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Southwest_Research_Institute_(SwRI)_logo.svg/440px-Southwest_Research_Institute_(SwRI)_logo.svg.png"></a>&emsp;
 <a href="https://physics.columbian.gwu.edu/" target="_blank"><img height="45" src="https://creativeservices.gwu.edu/sites/g/files/zaxdzs2746/f/downloads/gw_monogram_2c.png"></a>&emsp;
 <a href="https://lucy.swri.edu/" target="_blank"><img height="45" src="http://lucy.swri.edu/img/Lucy_insignia.svg"></a>&emsp;
 <a href="https://punch.space.swri.edu/" target="_blank"><img height="50" src="https://punch.space.swri.edu/images/punch-logo_240w.png"></a>&emsp;
-</p>
-
 
 #### Tools/languages I use:
-
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/jupyter.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/pandas.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/numpy.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/github.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/wolfram.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/visualstudiocode.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/adobe.svg">&ensp;<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/dassaultsystemes.svg"><br><br>
+<div style="height: fit-content; padding-top: 5px">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg" title="Python">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/jupyter.svg" title="Jupyter">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/numpy.svg" title="NumPy">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/pandas.svg" title="Pandas">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg" title="C++">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/github.svg" title="GitHub">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/wolfram.svg" title="Wolfram Mathematica">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg" title="Bash">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/visualstudiocode.svg" title="Visual Studio (Code)">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/adobe.svg" title="Adobe Creative Suite">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/dassaultsystemes.svg" title="(Dassault Systèmes) Solidworks">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/atlassian.svg" title="Atlassian Suite">
+</div><br/><br/>
 
 
 ## Featured repositories:
@@ -45,7 +53,7 @@ Affiliations:<br/>
 <a href="https://github.com/cgobat/astro-instruments/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=astro-instruments&theme=dark"/>
 </a>
-<br><br>
+<br/><br/>
 
 <details>
 <summary>GitHub Stats 📊</summary>
