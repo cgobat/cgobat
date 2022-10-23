@@ -41,11 +41,11 @@ Much of the code hosted on this profile represents past data analysis work (prim
 
 ## Featured repositories:
 
-<a href="https://github.com/cgobat/dark-GRBs" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=dark-GRBs&theme=dark"/>
-</a>
 <a href="https://github.com/cgobat/asymmetric_uncertainty/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=asymmetric_uncertainty&theme=dark"/>
+</a>
+<a href="https://github.com/cgobat/dark-GRBs" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=dark-GRBs&theme=dark"/>
 </a>
 <a href="https://github.com/cgobat/XDBS/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=XDBS&theme=dark"/>
