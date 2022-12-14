@@ -57,8 +57,9 @@ Much of the code hosted on this profile represents past data analysis work (prim
 
 <details>
 <summary>GitHub Stats 📊</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cgobat&show_icons=true&theme=dark" alt="cgobat">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgobat&theme=dark"> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cgobat&show_icons=true&theme=dark&hide_rank=true&custom_title=%40cgobat%27s%20stats" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgobat&theme=dark&hide=jupyter%20notebook,mathematica&langs_count=4" alt="languages">
 </p>
 </details>
 
