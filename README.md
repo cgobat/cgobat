@@ -53,6 +53,8 @@ Much of the code hosted on this profile represents past data analysis work (prim
 <a href="https://github.com/cgobat/astro-instruments/" target="_blank">
   <img align="center" src="https://gh-card.dev/repos/cgobat/astro-instruments.svg"/>
 </a>
+<br/>
+My Pinned repositories section below showcases a few other community projects I've contributed to as well as some Gists containing code snippets.
 <br/><br/>
 
 <details>
