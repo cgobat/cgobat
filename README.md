@@ -42,10 +42,10 @@ Much of the code hosted on this profile represents past data analysis work (prim
 ## Featured repositories:
 
 <a href="https://github.com/cgobat/asymmetric_uncertainty/" target="_blank">
-  <img align="center" src="https://gh-card.dev/repos/cgobat/asymmetric_uncertainty.svg"/>
+  <img src="https://gh-card.dev/repos/cgobat/asymmetric_uncertainty.svg"/>
 </a>
 <a href="https://github.com/cgobat/dark-GRBs" target="_blank">
- <img align="center" src="https://gh-card.dev/repos/cgobat/dark-sGRBs.svg"/>
+  <img src="https://gh-card.dev/repos/cgobat/dark-GRBs.svg">
 </a>
 <a href="https://github.com/cgobat/XDBS/" target="_blank">
   <img align="center" src="https://gh-card.dev/repos/cgobat/XDBS.svg"/>
