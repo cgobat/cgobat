@@ -42,19 +42,27 @@ Much of the code hosted on this profile represents past data analysis work (prim
 ## Featured repositories:
 
 <a href="https://github.com/cgobat/asymmetric_uncertainty/" target="_blank">
-  <img src="https://gh-card.dev/repos/cgobat/asymmetric_uncertainty.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=asymmetric_uncertainty"/>
 </a>
 <a href="https://github.com/cgobat/dark-GRBs" target="_blank">
-  <img src="https://gh-card.dev/repos/cgobat/dark-GRBs.svg">
-</a>
-<a href="https://github.com/cgobat/XDBS/" target="_blank">
-  <img align="center" src="https://gh-card.dev/repos/cgobat/XDBS.svg"/>
-</a>
-<a href="https://github.com/cgobat/astro-instruments/" target="_blank">
-  <img align="center" src="https://gh-card.dev/repos/cgobat/astro-instruments.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=dark-GRBs">
 </a>
 <br/>
-My Pinned repositories section below showcases a few other community projects I've contributed to as well as some Gists containing code snippets.
+<a href="https://github.com/cgobat/XDBS/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=XDBS"/>
+</a>
+<a href="https://github.com/cgobat/astro-instruments/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=astro-instruments"/>
+</a>
+<br/>
+<a href="https://gist.github.com/cgobat/5e32510aa0cfd2ddd8b576b414a93866" target="_blank">
+  <img aligh="center" src="https://gists-readme.yizack.com/api/pin?user=cgobat&id=5e32510aa0cfd2ddd8b576b414a93866"/>
+</a>
+<a href="https://gist.github.com/cgobat/9d7f8957523f0ab925043231d431562f" target="_blank">
+  <img aligh="center" src="https://gists-readme.yizack.com/api/pin?user=cgobat&id=9d7f8957523f0ab925043231d431562f"/>
+</a>
+<br/>
+My Pinned repositories section below showcases a few notable community projects I've contributed to.
 <br/><br/>
 
 <details>
