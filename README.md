@@ -5,37 +5,55 @@
 <a href="https://cgobat.github.io/" target="_blank"><img height="33" alt="Homepage" src="https://www.logolynx.com/images/logolynx/8d/8d22fff92e7d5249d75a8f931a1618c6.png"></a>&emsp;
 <a href="https://cgobat.myportfolio.com/" target="_blank"><img height="33" alt="Photography" src="http://iconbug.com/data/b7/256/43f075cf23f97af278ed3e874b041405.png"></a>&emsp;<img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="Profile views"/></p>
 
-I am...
-- an Analyst in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).[^1]
-- a graduate of the astrophysics program at the George Washington University.
-- a developer of operations software and data pipelines for space science missions, namely <abbr title="National Aeronautics and Space Administration">NASA</abbr>'s [*Lucy*](https://lucy.swri.edu/) and [*PUNCH*](https://punch.space.swri.edu/).
-- a scientific programmer, data analyst, and observational astronomer.
-- a Python and Git(Hub) evangelist.
+$\mathcal{I}$...
+- am an Analyst in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).[^1]
+- studied astrophysics at the George Washington University.
+- develop operations software and data pipelines for space science missions, namely <abbr title="National Aeronautics and Space Administration">NASA</abbr>'s [*Lucy*](https://lucy.swri.edu/) and [*PUNCH*](https://punch.space.swri.edu/).
+- do scientific programming, data analysis, and observational astronomy.
+- am a Python and Git(Hub) evangelist.
 
-Much of the code hosted on this profile represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current projects at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design, and the development of software analysis tools for time-dependent processes. I've previously done research in a number of labs and academic disciplines, and even worked at a telescope store. The [blue buttons](#buttons) above (right under the banner) lead to more about me.
+Much of the code hosted on this profile represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current work at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design, and the development of software analysis tools for time-dependent processes. I've previously done research in a number of labs and academic disciplines, and also worked at a telescope store. The [blue buttons](#buttons) above (right under the banner) lead to more about me.
 
 <br/>
 
 #### Affiliations:
-<a href="https://www.boulder.swri.edu/doso/index.html" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Southwest_Research_Institute_(SwRI)_logo.svg/440px-Southwest_Research_Institute_(SwRI)_logo.svg.png"></a>&emsp;
-<a href="https://physics.columbian.gwu.edu/" target="_blank"><img height="45" src="https://creativeservices.gwu.edu/sites/g/files/zaxdzs2746/f/downloads/gw_monogram_2c.png"></a>&emsp;
-<a href="https://lucy.swri.edu/" target="_blank"><img height="45" src="http://lucy.swri.edu/img/Lucy_insignia.svg"></a>&emsp;
-<a href="https://punch.space.swri.edu/" target="_blank"><img height="50" src="https://punch.space.swri.edu/images/punch-logo_240w.png"></a>&emsp;
+<a href="https://www.boulder.swri.edu/doso/index.html" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Southwest_Research_Institute_(SwRI)_logo.svg/440px-Southwest_Research_Institute_(SwRI)_logo.svg.png" title="SwRI"></a>&emsp;
+<a href="https://physics.columbian.gwu.edu/" target="_blank"><img height="45" src="https://creativeservices.gwu.edu/sites/g/files/zaxdzs2746/f/downloads/gw_monogram_2c.png" title="GWU"></a>&emsp;
+<a href="https://lucy.swri.edu/" target="_blank"><img height="45" src="http://lucy.swri.edu/img/Lucy_insignia.svg" title="Lucy"></a>&emsp;
+<a href="https://punch.space.swri.edu/" target="_blank"><img height="50" src="https://punch.space.swri.edu/images/punch-logo_240w.png" title="PUNCH"></a>&emsp;
 
 #### Tools/languages I use:
 <div style="height: fit-content; padding-top: 5px">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg" title="Python">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/jupyter.svg" title="Jupyter">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/numpy.svg" title="NumPy">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/pandas.svg" title="Pandas">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg" title="C++">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/github.svg" title="GitHub">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/wolfram.svg" title="Wolfram Mathematica">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg" title="Bash">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/visualstudiocode.svg" title="Visual Studio (Code)">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/adobe.svg" title="Adobe Creative Suite">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/dassaultsystemes.svg" title="(Dassault Systèmes) Solidworks">
-<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/atlassian.svg" title="Atlassian Suite">
+<a href="https://python.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/python" title="Python">
+</a>
+<a href="https://www.latex-project.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/latex" title="LaTeX">
+</a>
+<a href="https://jupyter.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/jupyter" title="Jupyter">
+</a>
+<a href="https://github.com/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/github/484545" title="GitHub">
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/numpy" title="NumPy">
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/gnubash" title="Bash">
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/pandas/2A08B0" title="Pandas">
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/visualstudiocode" title="VSCode">
+</a>
+<a href="https://www.solidworks.com/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/dassaultsystemes" title="(Dassault Systèmes) Solidworks">
+</a>
+<a href="https://www.atlassian.com/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/atlassian" title="Atlassian Suite">
+</a>
 </div><br/><br/>
 
 
@@ -49,20 +67,20 @@ Much of the code hosted on this profile represents past data analysis work (prim
 </a>
 <br/>
 <a href="https://github.com/cgobat/XDBS/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=XDBS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=XDBS"/>
 </a>
 <a href="https://github.com/cgobat/astro-instruments/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=astro-instruments"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=astro-instruments"/>
 </a>
 <br/>
 <a href="https://gist.github.com/cgobat/5e32510aa0cfd2ddd8b576b414a93866" target="_blank">
-  <img aligh="center" src="https://gists-readme.yizack.com/api/pin?user=cgobat&id=5e32510aa0cfd2ddd8b576b414a93866"/>
+  <img src="https://gists-readme.yizack.com/api/pin?user=cgobat&id=5e32510aa0cfd2ddd8b576b414a93866"/>
 </a>
 <a href="https://gist.github.com/cgobat/9d7f8957523f0ab925043231d431562f" target="_blank">
-  <img aligh="center" src="https://gists-readme.yizack.com/api/pin?user=cgobat&id=9d7f8957523f0ab925043231d431562f"/>
+  <img src="https://gists-readme.yizack.com/api/pin?user=cgobat&id=9d7f8957523f0ab925043231d431562f"/>
 </a>
 <br/>
-My Pinned repositories section below showcases a few notable community projects I've contributed to.
+My Pinned repositories section below showcases some notable community projects I've contributed to.
 <br/><br/>
 
 <details>
