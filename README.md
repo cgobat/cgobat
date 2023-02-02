@@ -1,9 +1,6 @@
 # <img src="img/banner.gif"/>
 
-<p id="buttons" style="height: fit-content; padding-bottom:5%;vertical-align: middle;">
-<a href="https://www.linkedin.com/in/caden-gobat/" target="_blank"><img height="30" alt="LinkedIn" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>&emsp;
-<a href="https://cgobat.github.io/" target="_blank"><img height="33" alt="Homepage" src="https://www.logolynx.com/images/logolynx/8d/8d22fff92e7d5249d75a8f931a1618c6.png"></a>&emsp;
-<a href="https://cgobat.myportfolio.com/" target="_blank"><img height="33" alt="Photography" src="http://iconbug.com/data/b7/256/43f075cf23f97af278ed3e874b041405.png"></a>&emsp;<img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="Profile views"/></p>
+<img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="Profile views"/></p>
 
 $\mathcal{I}$...
 - am an Analyst in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).[^1]
@@ -12,7 +9,7 @@ $\mathcal{I}$...
 - do scientific programming, data analysis, and observational astronomy.
 - am a Python and Git(Hub) evangelist.
 
-Much of the code hosted on this profile represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current work at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design, and the development of software analysis tools for time-dependent processes. I've previously done research in a number of labs and academic disciplines, and also worked at a telescope store. The [blue buttons](#buttons) above (right under the banner) lead to more about me.
+Much of the code hosted on this profile represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current work at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design, and the development of software analysis tools for time-dependent processes. I've previously done research in a number of labs and academic disciplines, and also worked at a telescope store.
 
 <br/>
 
