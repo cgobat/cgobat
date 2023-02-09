@@ -1,15 +1,15 @@
-# <img src="img/banner.gif"/>
+# <img src="img/banner.png"/>
 
 <img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="Profile views"/></p>
 
 $\mathcal{I}$...
 - am an Analyst in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).[^1]
 - studied astrophysics at the George Washington University.
-- develop operations software and data pipelines for space science missions, namely <abbr title="National Aeronautics and Space Administration">NASA</abbr>'s [*Lucy*](https://lucy.swri.edu/) and [*PUNCH*](https://punch.space.swri.edu/).
+- develop operations software and data pipelines for space science missions, namely <abbr title="National Aeronautics and Space Administration">NASA</abbr>'s [*Lucy*](https://lucy.swri.edu/) and [<abbr title="Polarimeter to UNify the Corona and Heliosphere">*PUNCH*</abbr>](https://punch.space.swri.edu/).
 - do scientific programming, data analysis, and observational astronomy.
-- am a Python and Git(Hub) evangelist.
+- &#x2764; Python and open source.
 
-Much of the code hosted on this profile represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current work at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design, and the development of software analysis tools for time-dependent processes. I've previously done research in a number of labs and academic disciplines, and also worked at a telescope store.
+Much of the code hosted here on GitHub represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current projects at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design and the development of software analysis tools for time-dependent processes. I have research experience in a number of labs and academic disciplines, and also worked at a telescope store.
 
 <br/>
 
@@ -36,14 +36,14 @@ Much of the code hosted on this profile represents past data analysis work (prim
 <a href="https://numpy.org/" target="_blank">
   <img height="30" src="https://cdn.simpleicons.org/numpy" title="NumPy">
 </a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/visualstudiocode" title="VSCode">
+</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img height="30" src="https://cdn.simpleicons.org/gnubash" title="Bash">
 </a>
 <a href="https://pandas.pydata.org/" target="_blank">
   <img height="30" src="https://cdn.simpleicons.org/pandas/2A08B0" title="Pandas">
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img height="30" src="https://cdn.simpleicons.org/visualstudiocode" title="VSCode">
 </a>
 <a href="https://www.solidworks.com/" target="_blank">
   <img height="30" src="https://cdn.simpleicons.org/dassaultsystemes" title="(Dassault Systèmes) Solidworks">
