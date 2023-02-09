@@ -1,4 +1,4 @@
-# <img src="img/banner.png"/>
+# <img src="img/header.png"/>
 
 <img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="Profile views"/></p>
 
