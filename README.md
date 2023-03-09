@@ -7,7 +7,7 @@ $\mathcal{I}$...
 - studied astrophysics at the George Washington University.
 - develop operations software and data pipelines for space science missions, namely <abbr title="National Aeronautics and Space Administration">NASA</abbr>'s [*Lucy*](https://lucy.swri.edu/) and [<abbr title="Polarimeter to UNify the Corona and Heliosphere">*PUNCH*</abbr>](https://punch.space.swri.edu/).
 - do scientific programming, data analysis, and observational astronomy.
-- &#x2764; Python and open source.
+- &#x2764; Python and open source software.
 
 Much of the code hosted here on GitHub represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current projects at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design and the development of software analysis tools for time-dependent processes. I have research experience in a number of labs and academic disciplines, and also worked at a telescope store.
 
