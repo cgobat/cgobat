@@ -9,7 +9,7 @@ $\mathcal{I}$...
 - do scientific programming, data analysis, and observational astronomy.
 - &#x2764; Python and open source software.
 
-Much of the code hosted here on GitHub represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current projects at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design and the development of software analysis tools for time-dependent processes. I have research experience in a number of labs and academic disciplines, and also worked at a telescope store.
+Much of the code hosted here on GitHub represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current projects at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design and the development of software analysis tools for time-dependent processes. I done research in a number of labs and academic disciplines, and also worked at a telescope store.
 
 <br/>
 
