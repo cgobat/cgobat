@@ -34,7 +34,10 @@ Much of the code hosted here on GitHub represents past data analysis work (prima
   <img height="30" src="https://cdn.simpleicons.org/github/484545" title="GitHub">
 </a>
 <a href="https://numpy.org/" target="_blank">
-  <img height="30" src="https://cdn.simpleicons.org/numpy" title="NumPy">
+  <img height="32" src="https://numpy.org/images/logo.svg" title="NumPy">
+</a>
+<a href="https://scipy.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/scipy/0054a6" title="SciPy">
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img height="30" src="https://cdn.simpleicons.org/visualstudiocode" title="VSCode">
