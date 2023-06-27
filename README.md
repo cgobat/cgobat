@@ -3,9 +3,12 @@
 <img src="https://komarev.com/ghpvc/?username=cgobat&color=blue" alt="Profile views"/></p>
 
 $\mathcal{I}$...
-- am an Analyst in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).[^1]
+
+- work in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).
 - studied astrophysics at the George Washington University.
-- develop operations software and data pipelines for space science missions, namely <abbr title="National Aeronautics and Space Administration">NASA</abbr>'s [*Lucy*](https://lucy.swri.edu/) and [<abbr title="Polarimeter to UNify the Corona and Heliosphere">*PUNCH*</abbr>](https://punch.space.swri.edu/).
+- develop operations software and data pipelines for space science missions, and lead the development of
+  - the [<abbr title="Planetary Data System">PDS</abbr>4](https://pds.nasa.gov/datastandards/about/what.shtml) archive data preparation software for the [*Lucy*](https://lucy.swri.edu/) mission.
+  - the [<abbr title="Polarimeter to UNify the Corona and Heliosphere">*PUNCH*</abbr>](https://punch.space.swri.edu/) mission operations center's telemetry/[CCSDS](https://public.ccsds.org/about/default.aspx) data processing pipeline.
 - do scientific programming, data analysis, and observational astronomy.
 - &#x2764; Python and open source software.
 
@@ -90,5 +93,3 @@ My Pinned repositories section below showcases some notable community projects I
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgobat&theme=dark&hide=jupyter%20notebook,mathematica&langs_count=4" alt="languages">
 </p>
 </details>
-
-[^1]: SwRI = [Southwest Research Institute](https://www.swri.org/)
