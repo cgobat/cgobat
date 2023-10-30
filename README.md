@@ -5,7 +5,7 @@
 $\mathcal{I}$...
 
 - work in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).
-- studied astrophysics at the George Washington University.
+- studied [astrophysics at <abbr title="George Washington University">GWU</abbr>](https://physics.columbian.gwu.edu/astrophysics).
 - develop operations software and data pipelines for space science missions, and lead the development of
   - the [<abbr title="Planetary Data System">PDS</abbr>4](https://pds.nasa.gov/datastandards/about/what.shtml) archive data preparation software for the [*Lucy*](https://lucy.swri.edu/) mission.
   - the [<abbr title="Polarimeter to UNify the Corona and Heliosphere">*PUNCH*</abbr>](https://punch.space.swri.edu/) mission operations center's telemetry/[CCSDS](https://public.ccsds.org/about/default.aspx) data processing pipeline.
@@ -16,6 +16,7 @@ Much of the code hosted here on GitHub represents past data analysis work (prima
 
 <br/>
 
+<!--
 #### Affiliations:
 <a href="https://www.boulder.swri.edu/doso/index.html" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Southwest_Research_Institute_(SwRI)_logo.svg/440px-Southwest_Research_Institute_(SwRI)_logo.svg.png" title="SwRI"></a>&emsp;
 <a href="https://physics.columbian.gwu.edu/" target="_blank"><img height="45" src="https://creativeservices.gwu.edu/sites/g/files/zaxdzs2746/f/downloads/gw_monogram_2c.png" title="GWU"></a>&emsp;
@@ -58,7 +59,7 @@ Much of the code hosted here on GitHub represents past data analysis work (prima
   <img height="30" src="https://cdn.simpleicons.org/atlassian" title="Atlassian Suite">
 </a>
 </div><br/><br/>
-
+-->
 
 ## Featured repositories:
 
