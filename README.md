@@ -10,7 +10,7 @@ $\mathcal{I}$...
   - the [<abbr title="Planetary Data System">PDS</abbr>4](https://pds.nasa.gov/datastandards/about/what.shtml) archive data preparation software for the [*Lucy*](https://lucy.swri.edu/) mission.
   - the [<abbr title="Polarimeter to UNify the Corona and Heliosphere">*PUNCH*</abbr>](https://punch.space.swri.edu/) mission operations center's telemetry/[CCSDS](https://public.ccsds.org/about/default.aspx) data processing pipeline.
 - do scientific programming, data analysis, and observational astronomy.
-- &#x2764; Python and open source software.
+- &#x2764; Python and [free software](https://www.gnu.org/philosophy/free-sw.html).
 
 Much of the code hosted here on GitHub represents past data analysis work (primarily in Python), using obervational data to investigate physical phenomena. In addition to my current projects at <abbr title="Southwest Research Institute">SwRI</abbr>, I am also interested in instrumentation design and the development of software analysis tools for time-dependent processes. I have done research in a number of labs and academic disciplines, and also worked at a telescope store.
 
