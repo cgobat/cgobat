@@ -4,12 +4,9 @@
 
 $\mathcal{I}$...
 
-- work in the Space Mission Directorate at [<abbr title="Southwest Research Institute">SwRI</abbr>&ndash;Boulder](https://www.boulder.swri.edu/).
-- studied [astrophysics at <abbr title="George Washington University">GWU</abbr>](https://physics.columbian.gwu.edu/astrophysics).
-- develop operations software and data pipelines (both on-board and on the ground) for space science missions, and lead the development of
-  - the [<abbr title="Planetary Data System">PDS</abbr>4](https://pds.nasa.gov/datastandards/about/what.shtml) archive data preparation software for both the [*Lucy*](https://lucy.swri.edu/) and [*New Horizons*](https://pluto.jhuapl.edu/) missions.
-  - the [<abbr title="Polarimeter to UNify the Corona and Heliosphere">*PUNCH*</abbr>](https://punch.space.swri.edu/) mission operations center's telemetry/[CCSDS](https://public.ccsds.org/about/default.aspx) data processing pipeline.
+- write ground and flight software for NASA science missions.
 - do scientific programming, data analysis, and observational astronomy.
+- dabble in embedded systems, FPGAs, hardware design, and instrumentation development.
 - &#x2764; Python and [free software](https://www.gnu.org/philosophy/free-sw.html).
 
 <br/>
@@ -30,13 +27,13 @@ $\mathcal{I}$...
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=cgobat&repo=astro-instruments"/>
 </a>
 <br/>
-<a href="https://gist.github.com/cgobat/5e32510aa0cfd2ddd8b576b414a93866" target="_blank">
+<!-- <a href="https://gist.github.com/cgobat/5e32510aa0cfd2ddd8b576b414a93866" target="_blank">
   <img src="https://gists-readme.yizack.com/api/pin?user=cgobat&id=5e32510aa0cfd2ddd8b576b414a93866"/>
 </a>
 <a href="https://gist.github.com/cgobat/9d7f8957523f0ab925043231d431562f" target="_blank">
   <img src="https://gists-readme.yizack.com/api/pin?user=cgobat&id=9d7f8957523f0ab925043231d431562f"/>
 </a>
-<br/>
+<br/> -->
 My Pinned repositories section below showcases some notable community projects I've contributed to.
 <br/><br/>
 
