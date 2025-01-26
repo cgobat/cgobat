@@ -20,7 +20,7 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Etc/UTC
           plugin_languages: yes
-          plugin_languages_ignored: jupyter, html
+          plugin_languages_ignored: jupyter notebook, mathematica, html
           plugin_languages_colors: github
           plugin_languages_limit: 6
           plugin_languages_recent_categories: markup, programming
