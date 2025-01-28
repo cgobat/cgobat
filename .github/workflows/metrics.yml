@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (twice a day)
-  schedule: [{cron: "0 */12 * * *"}]
+  # Schedule updates (once a day)
+  schedule: [{cron: "0 1 * * *"}]
   workflow_dispatch:
   push: {branches: ["master"]}
 jobs:
@@ -20,14 +20,13 @@ jobs:
           base: header, activity, community, repositories, metadata
           repositories_affiliations: owner, collaborator
           config_timezone: Etc/UTC
+          plugin_traffic: yes
           plugin_languages: yes
           plugin_languages_ignored: jupyter notebook, mathematica, html
           plugin_languages_colors: github
           plugin_languages_limit: 6
-          plugin_languages_recent_categories: markup, programming
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_followup: yes
-          plugin_followup_sections: user
+          # plugin_followup: yes
+          # plugin_followup_sections: user, repositories
           plugin_notable: yes
-          plugin_traffic: yes
