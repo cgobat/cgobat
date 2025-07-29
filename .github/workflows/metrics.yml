@@ -11,7 +11,7 @@ jobs:
       contents: write
     steps:
       - name: Render metrics image
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
