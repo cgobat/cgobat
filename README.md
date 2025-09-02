@@ -4,10 +4,11 @@
 
 $\mathcal{I}$...
 
+- am a graduate student studying Astronomy at San Diego State University.
 - write ground and flight software for NASA science missions.
-- do scientific programming, data analysis, and observational astronomy.
+#- do scientific programming, data analysis, and observational astronomy.
 - dabble in embedded systems, FPGAs, hardware design, and instrumentation development.
-- &#x2764; Python and [free software](https://www.gnu.org/philosophy/free-sw.html).
+- &#x2764; Python, [free software](https://www.gnu.org/philosophy/free-sw.html), and [open science](https://science.nasa.gov/open-science/).
 
 <br/>
 
