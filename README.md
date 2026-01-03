@@ -9,7 +9,7 @@ $\mathcal{I}$...
   <li>write ground and flight software for NASA science missions.</li>
   <!-- <li>do scientific programming, data analysis, and observational astronomy.</li> -->
   <li>dabble in embedded systems, FPGAs, hardware design, and instrumentation development.</li>
-  <li>&#x2764; Python, [free software](https://www.gnu.org/philosophy/free-sw.html), and [open science](https://science.nasa.gov/open-science/).</li>
+  <li>&#x2764; Python, <a href="https://www.gnu.org/philosophy/free-sw.html">free software</a>, and <a href="https://science.nasa.gov/open-science/">open science</a>.</li>
 </ul>
 
 <!-- ## Featured repositories:
